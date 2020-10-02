@@ -1,0 +1,12 @@
+<IceBurg>
+	<append xpath="/recipes">
+
+		<!-- Additional Farm Plot Recipe -->
+		<recipe name="farmPlotBlockPlayer" count="1" craft_time="20">
+			<ingredient name="resourceWood" count="4"/>
+			<ingredient name="treePlant02" count="8"/>
+			<ingredient name="resourceClayLump" count="40"/>
+		</recipe>
+
+	</append>
+</IceBurg>

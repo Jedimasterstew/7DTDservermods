@@ -1,0 +1,19 @@
+<configs>
+<append xpath="/traders/trader_item_groups/trader_item_group[@name='vehiclePartsT0']">
+			<item name="vehicleBrownHorsePlaceable" prob=".25"/>
+			<item name="vehicleBlackHorsePlaceable" prob=".25"/>
+			<item name="vehicleYellowHorsePlaceable" prob=".25"/>
+			<item name="vehicleAlbinoHorsePlaceable" prob=".25"/>
+			<item name="vehicleCreamHorsePlaceable" prob=".25"/>
+			<item name="vehicleMidnightHorsePlaceable" prob=".25"/>
+			<item name="vehicleGrayHorsePlaceable" prob=".25"/>
+</append>
+
+
+
+
+
+
+
+
+</configs>
